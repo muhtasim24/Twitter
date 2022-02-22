@@ -5,7 +5,7 @@ CodePath Project
 
 This is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -27,3 +27,10 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/1aboFbZzGp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Notes
+- Had trouble with getting the tweets to show up on the display
+- To fix it had to use the default API
+- Kept getting errors 401, 403 with API's generated from my account 
+- Error 429 using defualt API
+- Hard to upload to github
