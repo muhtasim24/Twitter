@@ -26,7 +26,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/zQ2LXL0Ddv' stitle='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/zQ2LXL0Ddv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 - Had trouble with getting the tweets to show up on the display
