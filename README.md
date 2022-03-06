@@ -59,4 +59,3 @@ Here's a walkthrough of implemented user stories:
 - To fix it had to use the default API
 - Kept getting errors 401, 403 with API's generated from my account 
 - Error 429 using defualt API
-- Still have trouble uploading code to Github 
